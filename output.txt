@@ -1,0 +1,5 @@
+Rezultate pentru: (doc1.txt)
+doc1.txt (1.192%)
+doc2.txt (1.116%)
+doc3.txt (1.003%)
+doc4.txt (0.999%)
